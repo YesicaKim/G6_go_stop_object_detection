@@ -1,0 +1,1 @@
+# G6_go_stop_object_detection
